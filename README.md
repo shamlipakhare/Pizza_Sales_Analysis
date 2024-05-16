@@ -2,7 +2,7 @@
 # Pizza Sales Analysis.
 
 
-Developed a Pizza Sales Report project utilizing SQL for data analysis and Power BI for interactive visualizations. Delivered comprehensive insights on pizza sales, highlighting daily/monthly trends, sales by category/size, and identifying top-selling pizzas based on revenue, quantity, and total orders.
+Developed a Pizza Sales Report project utilizing SQL for data analysis. Delivered comprehensive insights on pizza sales, highlighting daily/monthly trends, sales by category/size, and identifying top-selling pizzas based on revenue, quantity, and total orders.
 
 
 ## Features
